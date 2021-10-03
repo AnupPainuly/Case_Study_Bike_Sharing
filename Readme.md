@@ -13,7 +13,7 @@ Cyclistic’s finance analysts have concluded that annual members are much more 
 pricing flexibility helps Cyclistic attract more customers, Moreno believes that maximizing the number of annual members will
 be key to future growth. Rather than creating a marketing campaign that targets all-new customers, Moreno believes there is a
 very good chance to convert casual riders into members. She notes that casual riders are already aware of the Cyclistic
-program and have chosen Cyclistic for their mobility needs
+program and have chosen Cyclistic for their mobility needs.
 
 
 ## **Business Task**
