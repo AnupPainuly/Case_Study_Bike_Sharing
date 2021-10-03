@@ -26,6 +26,9 @@ Anlayse the usage the trends of all the members using the service for conversion
 The total trip duration for casual riders and annual members are affected by the season. The temperature is very low during the winter season, fewer people are willing to go out and people who need to travel daily for work will choose to take other public transport, this had caused the total trip duration are the lowest among another season.
 Over the years, we see a significant divergence of total trip duration from May to September for two groups of users. This has shown their usage pattern significantly due to their preference and it is more clear when we look into total trip duration on every single hour within the day.
 
+## **Relevant links and citations
+
+Programing (R) code [Link](https://anuppainuly.github.io/Cyclistic_Bike_Sharing_R_Code/)
 Please refer to the [Link](https://public.tableau.com/app/profile/anup6569/viz/CaseStudy-CyclisticBikeSharing/CyclisticBike-SharingInsightsP1) for viewing the insights in Tableau.
 
 The [data](https://divvy-tripdata.s3.amazonaws.com/index.html) has been made available by
