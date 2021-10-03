@@ -28,8 +28,8 @@ Over the years, we see a significant divergence of total trip duration from May 
 
 ## **Relevant links and citations
 
-Programing (R) code [Link](https://anuppainuly.github.io/Cyclistic_Bike_Sharing_R_Code/)
-Please refer to the [Link](https://public.tableau.com/app/profile/anup6569/viz/CaseStudy-CyclisticBikeSharing/CyclisticBike-SharingInsightsP1) for viewing the insights in Tableau.
+
+Please refer [Here](https://public.tableau.com/app/profile/anup6569/viz/CaseStudy-CyclisticBikeSharing/CyclisticBike-SharingInsightsP1) for viewing the insights in Tableau and [Here](https://anuppainuly.github.io/Cyclistic_Bike_Sharing_R_Code/) for Programing (R) code. 
 
 The [data](https://divvy-tripdata.s3.amazonaws.com/index.html) has been made available by
 Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement).
